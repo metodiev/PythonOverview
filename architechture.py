@@ -1,4 +1,0 @@
-name = input()
-num_of_projects = int(input())
-hours_to_complete = num_of_projects * 3
-print(f'The architect {name} will need {hours_to_complete} hours to complete {num_of_projects} project/s.')
