@@ -115,7 +115,7 @@ Every phase balances:
 
 ##  Learning Cycle
 
-Each tutorial or prompt follows this cycle:
+Each tutorial follows this cycle:
 
 1. **Learn** — Read a short, focused guide  
 2. **Build** — Implement the exercise or mini-project  
@@ -125,6 +125,4 @@ Each tutorial or prompt follows this cycle:
 This cycle reinforces understanding through repetition and reflection.
 
 
-
-##  Repository Structure
 
